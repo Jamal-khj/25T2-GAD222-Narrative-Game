@@ -5,5 +5,6 @@ null,
 {"id":3,"expanded":true,"name":"Village","order":3,"parentId":1,"scrollX":875,"scrollY":556.5,"quick":false},
 {"id":4,"expanded":false,"name":"House 01","order":4,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
 {"id":5,"expanded":false,"name":"Gear Shop","order":5,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
-{"id":6,"expanded":false,"name":"Opening CS","order":6,"parentId":1,"scrollX":875,"scrollY":556.5,"quick":false}
+{"id":6,"expanded":false,"name":"Opening CS","order":7,"parentId":1,"scrollX":875,"scrollY":556.5,"quick":false},
+{"id":7,"expanded":false,"name":"Inn","order":6,"parentId":3,"scrollX":0,"scrollY":0,"quick":false}
 ]
