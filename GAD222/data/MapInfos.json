@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Wrold Map","order":3,"parentId":0,"scrollX":1500,"scrollY":953.9999999999999},
+{"id":1,"expanded":true,"name":"Wrold Map","order":3,"parentId":0,"scrollX":1500,"scrollY":1925.9999999999998},
 {"id":2,"expanded":true,"name":"Tanamor GF","order":6,"parentId":9,"scrollX":832,"scrollY":896,"quick":false},
 {"id":3,"expanded":true,"name":"Village","order":9,"parentId":1,"scrollX":1500,"scrollY":953.9999999999999,"quick":false},
 {"id":4,"expanded":false,"name":"House 01","order":10,"parentId":3,"scrollX":816,"scrollY":640,"quick":false},
@@ -11,7 +11,7 @@ null,
 {"id":9,"expanded":true,"name":"Tanamor (Parent map)","order":5,"parentId":1,"scrollX":875,"scrollY":548.5,"quick":false},
 {"id":10,"expanded":true,"name":"Tanamor F1","order":7,"parentId":9,"scrollX":1312.5,"scrollY":834.75,"quick":false},
 {"id":11,"expanded":false,"name":"Demo Dailog","order":2,"parentId":0,"scrollX":875,"scrollY":556.5,"quick":false},
-{"id":12,"expanded":false,"name":"Tanamor Boss room","order":8,"parentId":9,"scrollX":1513.7142857142856,"scrollY":955.7142857142857,"quick":false},
+{"id":12,"expanded":false,"name":"Tanamor Boss room","order":8,"parentId":9,"scrollX":1500,"scrollY":955.7142857142857,"quick":false},
 {"id":13,"expanded":false,"name":"Second Tower","order":13,"parentId":1,"scrollX":1166.6666666666667,"scrollY":742,"quick":false},
 {"id":14,"expanded":true,"name":"Wrold Map (Back up)","order":14,"parentId":1,"scrollX":1500,"scrollY":953.9999999999999}
 ]
