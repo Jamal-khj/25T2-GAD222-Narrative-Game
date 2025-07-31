@@ -105,5 +105,7 @@ null,
 {"id":103,"atypeId":1,"description":"[Accessory] A ring that entirely prevents Paralysis\nstates.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":12,"value":1}],"iconIndex":145,"name":"Super Paralysis Ring","note":"","params":[0,0,0,5,0,0,0,0],"price":3000},
 {"id":104,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":105,"atypeId":1,"description":"[Accessory] A ring that helps prevent \ngetting Charmed.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":13,"dataId":9,"value":0.6}],"iconIndex":145,"name":"Charm Ring","note":"","params":[0,0,0,1,0,0,0,0],"price":300},
-{"id":106,"atypeId":1,"description":"[Accessory] A ring that entirely prevents getting\nCharmed.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":9,"value":1}],"iconIndex":145,"name":"Super Charm Ring","note":"","params":[0,0,0,5,0,0,0,0],"price":3000}
+{"id":106,"atypeId":1,"description":"[Accessory] A ring that entirely prevents getting\nCharmed.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":9,"value":1}],"iconIndex":145,"name":"Super Charm Ring","note":"","params":[0,0,0,5,0,0,0,0],"price":3000},
+{"id":107,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":108,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":21,"dataId":6,"value":0.1}],"iconIndex":134,"name":"Fenrir's Amulet","note":"","params":[0,0,0,0,0,0,0,0],"price":5000}
 ]
