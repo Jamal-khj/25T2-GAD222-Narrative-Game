@@ -107,5 +107,6 @@ null,
 {"id":105,"atypeId":1,"description":"[Accessory] A ring that helps prevent \ngetting Confusion.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":13,"dataId":8,"value":0.6}],"iconIndex":145,"name":"Confusion Ring","note":"","params":[0,0,0,1,0,0,0,0],"price":300},
 {"id":106,"atypeId":1,"description":"[Accessory] A ring that negates getting Confused.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":8,"value":1}],"iconIndex":145,"name":"Super Confusion Ring","note":"","params":[0,0,0,5,0,0,0,0],"price":3000},
 {"id":107,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":108,"atypeId":1,"description":"Agi+10%","etypeId":5,"traits":[{"code":21,"dataId":6,"value":1.1}],"iconIndex":134,"name":"Fenrir's Amulet","note":"","params":[0,0,0,0,0,0,10,0],"price":5000}
+{"id":108,"atypeId":1,"description":"Agi+10%","etypeId":5,"traits":[{"code":21,"dataId":6,"value":1.1}],"iconIndex":134,"name":"Fenrir's Amulet","note":"","params":[0,0,0,0,0,0,10,0],"price":5000},
+{"id":109,"atypeId":1,"description":"[Accessory] A ring that highly increases Defense.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Boulder Ring","note":"","params":[0,0,0,20,0,20,0,0],"price":1000}
 ]
