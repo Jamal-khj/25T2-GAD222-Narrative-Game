@@ -20,5 +20,5 @@ null,
 {"id":18,"expanded":false,"name":"Behemoth Arena","order":17,"parentId":16,"scrollX":954.5454545454546,"scrollY":1021.6363636363636,"quick":false},
 {"id":19,"expanded":true,"name":"Sorc. Garden","order":18,"parentId":16,"scrollX":1072,"scrollY":624,"quick":false},
 {"id":20,"expanded":false,"name":"Sorc. Cabin","order":19,"parentId":19,"scrollX":954.5454545454546,"scrollY":607.0909090909091,"quick":false},
-{"id":21,"expanded":false,"name":"Mine","order":21,"parentId":1,"scrollX":1312.5,"scrollY":1085.25,"quick":false}
+{"id":21,"expanded":false,"name":"Mine","order":21,"parentId":1,"scrollX":1312.5,"scrollY":834.75,"quick":false}
 ]
