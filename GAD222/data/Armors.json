@@ -77,7 +77,7 @@ null,
 {"id":75,"atypeId":1,"description":"[Accessory] A charm that increases Attack.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":147,"name":"Power Stone","note":"","params":[0,0,5,0,5,0,0,0],"price":500},
 {"id":76,"atypeId":1,"description":"[Accessory] A ring that increases Attack.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Power Ring","note":"","params":[0,0,5,0,10,0,0,0],"price":1000},
 {"id":77,"atypeId":1,"description":"[Accessory] A charm that increases Agility.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":147,"name":"Speed Stone","note":"","params":[0,0,0,0,0,0,5,0],"price":500},
-{"id":78,"atypeId":1,"description":"[Accessory] A ring that increases Agility.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Speed Ring","note":"","params":[0,0,0,0,0,0,5,0],"price":1000},
+{"id":78,"atypeId":1,"description":"[Accessory] A ring that increases Agility.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Speed Ring","note":"","params":[0,0,0,0,0,0,10,0],"price":1000},
 {"id":79,"atypeId":1,"description":"[Accessory] A charm that increases Luck.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":147,"name":"Lucky Stone","note":"","params":[0,0,0,0,0,0,0,5],"price":500},
 {"id":80,"atypeId":1,"description":"[Accessory] A ring that increases Luck.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Lucky Ring","note":"","params":[0,0,0,0,0,0,0,10],"price":1000},
 {"id":81,"atypeId":1,"description":"[Accessory] A charm that increases M.Attack.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":147,"name":"Magical Stone","note":"","params":[0,0,0,0,5,5,0,0],"price":500},
@@ -107,5 +107,5 @@ null,
 {"id":105,"atypeId":1,"description":"[Accessory] A ring that helps prevent \ngetting Confusion.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":13,"dataId":8,"value":0.6}],"iconIndex":145,"name":"Confusion Ring","note":"","params":[0,0,0,1,0,0,0,0],"price":300},
 {"id":106,"atypeId":1,"description":"[Accessory] A ring that negates getting Confused.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":8,"value":1}],"iconIndex":145,"name":"Super Confusion Ring","note":"","params":[0,0,0,5,0,0,0,0],"price":3000},
 {"id":107,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":108,"atypeId":1,"description":"Agi+10%","etypeId":5,"traits":[{"code":21,"dataId":6,"value":1.1}],"iconIndex":134,"name":"Fenrir's Amulet","note":"","params":[0,0,0,0,0,0,0,0],"price":5000}
+{"id":108,"atypeId":1,"description":"Agi+10%","etypeId":5,"traits":[{"code":21,"dataId":6,"value":1.1}],"iconIndex":134,"name":"Fenrir's Amulet","note":"","params":[0,0,0,0,0,0,10,0],"price":5000}
 ]
